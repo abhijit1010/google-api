@@ -1,0 +1,18 @@
+Client ID
+930444671804-t5cgg15nfrn0v653k0n139lhl4gqrn1h.apps.googleusercontent.com
+
+Client Secret
+NYFHvU7SDytHbG5meQRdyimN
+
+Load the Google Platform Library
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+Specify your's App's Client ID
+<meta name="google-signin-client_id" content="Paste your Client ID HEre">
+
+JQuery Google CDN
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+Bootstrap
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
